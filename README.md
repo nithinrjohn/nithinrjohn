@@ -1,4 +1,4 @@
-[![Nithin's GitHub Banner](./assets/Banner.png)]([https://braydoncoyer.dev](https://nithinrjohn.github.io/))
+[![Nithin's GitHub Banner](./assets/Banner.png)](https://nithinrjohn.github.io/)
 
 ## Hi there 👋
 
